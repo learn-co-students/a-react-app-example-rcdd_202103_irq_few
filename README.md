@@ -4,7 +4,7 @@
 
 Before we dive in and start working on specific parts of a React project, let's
 take a look at a simple React app so we can understand it at a high level.
-
+ 
 In this lesson, we will start with a basic React app, examine the default
 directory structure and gain a better understanding of how these apps are built.
 
